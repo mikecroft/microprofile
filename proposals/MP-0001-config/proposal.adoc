@@ -1,0 +1,1 @@
+include::https://raw.githubusercontent.com/eclipse/microprofile-evolution-process/master/proposals/0001-config.md[]
